@@ -1,5 +1,5 @@
  export default [
-  { id: 1, color: "#333333", on: true },
+  { id: 1, color: "#123456", on: true },
   { id: 2, color: "#334533", on: false },
   { id: 3, color: "#883344", on: true },
   { id: 4, color: "#123456", on: false },
