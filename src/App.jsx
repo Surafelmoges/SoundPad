@@ -10,7 +10,7 @@ export default function App({darkMode}) {
     backgroundColor : darkMode ? "red" : "Orange"
   }
   const disPad = pads.map(padd=>(
-    <Padc key={padd.id} color={Padc.color}/>
+    <Padc key={padd.id} color={padd.color} on={padd.on}/>
 
   ))
 
